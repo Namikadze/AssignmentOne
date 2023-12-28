@@ -12,7 +12,7 @@ public class MyApplication {
 
         Scanner sc = new Scanner(file);
 
-        //Shape for points
+        //Shape for points.
         Shape shape = new Shape();
 
         //Variables for the first and previous points

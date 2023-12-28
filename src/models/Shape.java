@@ -27,7 +27,7 @@ public class Shape {
         return perimeter;
     }
 
-    //Average side length
+    //Average side length.
     public double getAverageSide() {
         int size = points.size();
         if (size == 0) {
